@@ -1,0 +1,6 @@
+*.ipynb
+*.json
+.ipynb_checkpoints/
+.jupyter_ystore.db
+.venv
+output.txt
